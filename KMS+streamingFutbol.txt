@@ -1,4 +1,3 @@
-# ---- Prueba ----
 ||futbol-libres.*^
 ||futbollibre.*^
 ||futbolparatodos*.^
