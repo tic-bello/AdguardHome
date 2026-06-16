@@ -1,3 +1,7 @@
+
+||futbol-libres.*^
+||futbollibre.*^
+||futbolparatodos*.^
 ||kms.srv.crsoo.com^
 ||cy2617.jios.org^
 ||kms.digiboy.ir^
