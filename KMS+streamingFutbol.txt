@@ -1,3 +1,4 @@
+#popopopopopopo
 ||futbol-libres.*^
 ||futbollibre.*^
 ||futbolparatodos*.^
