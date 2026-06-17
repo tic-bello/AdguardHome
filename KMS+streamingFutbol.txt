@@ -226,10 +226,10 @@
 ||pirlotv.futbol^
 
 # ---- Telegram ----
-||telegram.org^
-||t.me^
-||tdesktop.com^
-||stel.com^
+#||telegram.org^
+#||t.me^
+#||tdesktop.com^
+#||stel.com^
 
 # ---- Otras Redes Sociales y Plataformas de Contenido ----
 ||tumblr.com^
@@ -683,11 +683,11 @@
 ||beeg.com^
 
 # ---- Reddit ----
-||reddit.com^
-||redd.it^
-||redditmedia.com^
-||redditstatic.com^
-||g.redditmedia.com^
+#||reddit.com^
+#||redd.it^
+#||redditmedia.com^
+#||redditstatic.com^
+#||g.redditmedia.com^
 
 # ---- Discord ----
 ||discord.com^
@@ -697,21 +697,6 @@
 ||discord.media^
 ||cdn.discordapp.com^
 ||gateway.discord.gg^
-
-# ---- Snapchat ----
-||snapchat.com^
-||sc-cdn.net^
-||snap-analytics.com^
-||app-measurement.com^
-
-# ---- Pinterest ----
-#||pinterest.com^
-#||pinterest.ca^
-#||pinterest.co.uk^
-#||pinterest.de^
-#||pinterest.fr^
-#||pinterest.es^
-#||pinimg.com^
 
 # ---- TikTok y Bytedance ----
 # Bloquea la app, la web, CDNs y la empresa matriz.
