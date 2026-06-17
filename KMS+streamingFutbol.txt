@@ -284,9 +284,9 @@
 ||hbonow.com^
 ||hbo.com^
 ||hbomaxcdn.com^
-||primevideo.com^
-||amazonvideo.com^
-||media-amazon.com^
+#||primevideo.com^
+#||amazonvideo.com^
+#||media-amazon.com^
 ||hulu.com^
 ||huluim.com^
 ||twitch.tv^
