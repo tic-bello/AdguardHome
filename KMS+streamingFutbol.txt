@@ -618,7 +618,7 @@
 # ! Bloque: Plataformas “edgy”, alternativas, y redes censuradas por polémica
 ||discord.com^
 ||discord.gg^
-||telegram.org^
+#
 ||matrix.org^
 ||riot.im^
 ||t.me^
