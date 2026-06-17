@@ -705,24 +705,24 @@
 ||app-measurement.com^
 
 # ---- Pinterest ----
-||pinterest.com^
-||pinterest.ca^
-||pinterest.co.uk^
-||pinterest.de^
-||pinterest.fr^
-||pinterest.es^
-||pinimg.com^
+#||pinterest.com^
+#||pinterest.ca^
+#||pinterest.co.uk^
+#||pinterest.de^
+#||pinterest.fr^
+#||pinterest.es^
+#||pinimg.com^
 
 # ---- TikTok y Bytedance ----
 # Bloquea la app, la web, CDNs y la empresa matriz.
-||tiktok.com^
-||tiktokv.com^
-||tiktokcdn.com^
-||p16-tiktokcdn-com.akamaized.net^
-||muscdn.com^
-||musical.ly^
-||byteoversea.com^
-||bytedance.com^
-||ibytedtos.com^
-||tik-tokapi.com^
-||ttwstatic.com^
+#||tiktok.com^
+#||tiktokv.com^
+#||tiktokcdn.com^
+#||p16-tiktokcdn-com.akamaized.net^
+#||muscdn.com^
+#||musical.ly^
+#||byteoversea.com^
+#||bytedance.com^
+#||ibytedtos.com^
+#||tik-tokapi.com^
+#||ttwstatic.com^
