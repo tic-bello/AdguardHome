@@ -271,32 +271,27 @@
 # ----------------------------------------------------
 
 # ---- Video Streaming ----
-||netflix.com^
+
 ||nflxvideo.net^
 ||nflxso.net^
 ||nflxext.com^
-||disneyplus.com^
-||disney-plus.net^
 ||dssott.com^
 ||bamgrid.com^
 ||max.com^
-||hbomax.com^
+
 ||hbonow.com^
-||hbo.com^
+
 ||hbomaxcdn.com^
-#||primevideo.com^
-#||amazonvideo.com^
-#||media-amazon.com^
-||hulu.com^
+
 ||huluim.com^
 ||twitch.tv^
 ||ttvnw.net^
 ||twitchcdn.net^
-||pluto.tv^
-||vimeo.com^
+
+
 ||dailymotion.com^
 ||viki.com^
-||rakuten.tv^
+
 ||crunchyroll.com^
 ||fubo.tv^
 
