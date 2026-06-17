@@ -225,12 +225,6 @@
 ||pirlotvhd.ws^
 ||pirlotv.futbol^
 
-# ---- Telegram ----
-#||telegram.org^
-#||t.me^
-#||tdesktop.com^
-#||stel.com^
-
 # ---- Otras Redes Sociales y Plataformas de Contenido ----
 ||tumblr.com^
 ||quora.com^
