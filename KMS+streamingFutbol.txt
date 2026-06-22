@@ -533,7 +533,7 @@
 ||kbin.run^
 ||discuss.tchncs.de^
 ||teddit.net^
-||libreddit.spike.codes^
+#@||libreddit.spike.codes^
 ||notabug.io^
 
 # ! Bloque: Foros incel, misoginia y espacios radicales
