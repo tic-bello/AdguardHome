@@ -622,10 +622,10 @@
 ||matrix.org^
 ||riot.im^
 ||t.me^
-||reddit.com^
-||redd.it^
-||old.reddit.com^
-||np.reddit.com^
+#||reddit.com^
+#||redd.it^
+#||old.reddit.com^
+#||np.reddit.com^
 ||ruqqus.com^
 ||bunkr.is^
 ||bunkr.ru^
